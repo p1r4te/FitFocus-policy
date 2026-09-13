@@ -1,0 +1,7 @@
+{
+  "interstitialMinIntervalMinutes": 8,
+  "interstitialSkipFirstSessions": 3,
+  "bannerEnabled": true,
+  "interstitialAfterWorkout": true,
+  "freeMaxPresets": 3
+}
