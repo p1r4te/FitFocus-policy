@@ -3,5 +3,9 @@
   "interstitialSkipFirstSessions": 3,
   "bannerEnabled": true,
   "interstitialAfterWorkout": true,
-  "freeMaxPresets": 3
+  "freeMaxPresets": 3,
+  "paywallAfterWorkouts": 2,
+  "paywallIntervalDays": 7,
+  "paywallCompletionLink": true,
+  "paywallAfterOnboarding": false
 }
